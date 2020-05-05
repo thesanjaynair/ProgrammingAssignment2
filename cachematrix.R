@@ -33,5 +33,3 @@ cacheSolve <- function(x, ...) {
   x$setinverse(inv)
   inv
 }
-
-cacheSolve(m1)
